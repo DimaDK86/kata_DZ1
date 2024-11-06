@@ -219,5 +219,7 @@ body {
             flex-wrap: wrap;    
             white-space: nowrap;
             row-gap: 20px;
+            overflow-x: hidden;
+
         }
 }
